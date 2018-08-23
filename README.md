@@ -1,5 +1,5 @@
 # Stephen-USDA
-Demo for USDA data carpentry training. im making a change to th the readme.
+Demo for USDA data carpentry training. I don't like change, it scares me.
 
 # CHANGES!!!
 
